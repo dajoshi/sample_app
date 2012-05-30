@@ -1,0 +1,5 @@
+# Ruby on rails Tutorial : sample application
+
+This is a sample application for [*Ruby on rails Tutorial: Learn rails by Example*] 
+(http://railstutorial.org/) by 
+[Michael Hart] (http://michaelhart.com).
